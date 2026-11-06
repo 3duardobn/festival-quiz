@@ -71,6 +71,26 @@ flutter run -d chrome
 
 ---
 
+## 🤖 CI/CD & Geração Automática de APK por Tag
+
+O projeto possui integração contínua (GitHub Actions) configurada para gerar o APK automaticamente e criar uma nova Release no GitHub sempre que uma tag de versão for publicada:
+
+```bash
+# Criar uma nova tag de versão (ex: v1.0.0)
+git tag v1.0.0
+
+# Enviar a tag para o GitHub
+git push origin v1.0.0
+```
+
+Assim que a tag for enviada:
+1. O GitHub Actions iniciará o workflow [`.github/workflows/release.yml`](.github/workflows/release.yml).
+2. O código será analisado e testado (`flutter analyze` e `flutter test`).
+3. O APK de release será compilado (`flutter build apk --release`).
+4. Uma nova **GitHub Release** será publicada automaticamente contendo o arquivo `festival-quiz-v1.0.0.apk` pronto para download e instalação direta em tablets ou smartphones Android.
+
+---
+
 ## 📜 Licença
 
 Distribuído sob a licença **GNU General Public License v3.0 (GPL-3.0)**. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
