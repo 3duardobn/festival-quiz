@@ -1,0 +1,119 @@
+{
+  "title": "Desafio SignWriting - Curso de Libras",
+  "description": "Perguntas de Verdadeiro ou Falso baseadas no material oficial de SignWriting",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "sw_01",
+      "question": "Valerie Sutton começou criando um sistema para registrar movimentos de dança.",
+      "answer": true,
+      "explanation": "O primeiro sistema de Valerie Sutton foi desenvolvido para registrar movimentos de dança (DanceWriting em 1966).",
+      "category": "História do SignWriting",
+      "source": "PDF Oficial - Afirmação 1"
+    },
+    {
+      "id": "sw_02",
+      "question": "A Escrita de Sinais foi criada originalmente no Brasil.",
+      "answer": false,
+      "explanation": "O SignWriting surgiu na Dinamarca, em 1974, criado pela norte-americana Valerie Sutton a convite de pesquisadores dinamarqueses.",
+      "category": "História do SignWriting",
+      "source": "PDF Oficial - Afirmação 2"
+    },
+    {
+      "id": "sw_03",
+      "question": "O SignWriting começou a ser desenvolvido para registrar línguas de sinais em 1974.",
+      "answer": true,
+      "explanation": "1974 é o ano associado à adaptação do sistema DanceWriting para registrar línguas de sinais.",
+      "category": "História do SignWriting",
+      "source": "PDF Oficial - Afirmação 3"
+    },
+    {
+      "id": "sw_04",
+      "question": "Valerie Sutton foi a criadora da Libras.",
+      "answer": false,
+      "explanation": "Valerie Sutton criou o sistema de escrita SignWriting. A Libras é uma língua natural que surgiu e se desenvolveu na comunidade surda brasileira.",
+      "category": "Conceitos & Libras",
+      "source": "PDF Oficial - Afirmação 4"
+    },
+    {
+      "id": "sw_05",
+      "question": "A Escrita de Sinais representa somente os movimentos das mãos.",
+      "answer": false,
+      "explanation": "O sistema também registra orientação, localização e elementos não manuais, como expressões faciais e movimentos de tronco.",
+      "category": "Parâmetros do SignWriting",
+      "source": "PDF Oficial - Afirmação 5"
+    },
+    {
+      "id": "sw_06",
+      "question": "Expressões faciais e outros elementos do corpo também podem ser representados.",
+      "answer": true,
+      "explanation": "Elementos não manuais podem fazer parte da representação gráfica no SignWriting, possuindo alto valor linguístico.",
+      "category": "Parâmetros do SignWriting",
+      "source": "PDF Oficial - Afirmação 6"
+    },
+    {
+      "id": "sw_07",
+      "question": "A Escrita de Sinais foi introduzida no Brasil em 1996.",
+      "answer": true,
+      "explanation": "A introdução do SignWriting no Brasil é geralmente situada em 1996, com pesquisas no INES e na Universidade de Brasília.",
+      "category": "SignWriting no Brasil",
+      "source": "PDF Oficial - Afirmação 7"
+    },
+    {
+      "id": "sw_08",
+      "question": "O SignWriting permite registrar visualmente línguas de sinais.",
+      "answer": true,
+      "explanation": "O sistema representa graficamente aspectos das línguas de sinais de forma bidimensional e pictográfica/esquemática.",
+      "category": "Conceitos & Libras",
+      "source": "PDF Oficial - Afirmação 8"
+    },
+    {
+      "id": "sw_09",
+      "question": "DanceWriting é o nome do sistema desenvolvido inicialmente por Valerie Sutton para registrar movimentos de dança.",
+      "answer": true,
+      "explanation": "O DanceWriting foi criado em 1966 por Valerie Sutton para registrar as coreografias do Balé Real Dinamarquês.",
+      "category": "Jogo da Memória - Termos",
+      "source": "PDF Oficial - Cartões da Memória"
+    },
+    {
+      "id": "sw_10",
+      "question": "A Configuração de Mão refere-se à região do corpo ou espaço onde o sinal é produzido.",
+      "answer": false,
+      "explanation": "Configuração de mão é o formato que a mão assume ao realizar um sinal. A região do corpo é chamada de Localização.",
+      "category": "Parâmetros do SignWriting",
+      "source": "PDF Oficial - Cartões da Memória"
+    },
+    {
+      "id": "sw_11",
+      "question": "No SignWriting, a 'Orientação' indica a direção para a qual a palma ou o dorso da mão está voltado.",
+      "answer": true,
+      "explanation": "A orientação especifica para onde a palma, o dorso ou os dedos apontam durante a produção do sinal.",
+      "category": "Parâmetros do SignWriting",
+      "source": "PDF Oficial - Cartões da Memória"
+    },
+    {
+      "id": "sw_12",
+      "question": "O parâmetro 'Movimento' descreve o deslocamento ou a trajetória realizada durante o sinal.",
+      "answer": true,
+      "explanation": "No SignWriting, símbolos específicos de setas e linhas indicam o tipo, direção e dinamismo do movimento.",
+      "category": "Parâmetros do SignWriting",
+      "source": "PDF Oficial - Cartões da Memória"
+    },
+    {
+      "id": "sw_13",
+      "question": "No SignWriting, expressões faciais não têm valor linguístico e não precisam ser registradas.",
+      "answer": false,
+      "explanation": "Expressões faciais e movimentos corporais são expressões não manuais e possuem valor gramatical e linguístico fundamental em línguas de sinais.",
+      "category": "Parâmetros do SignWriting",
+      "source": "PDF Oficial - Cartões da Memória"
+    },
+    {
+      "id": "sw_14",
+      "question": "O ano de 1966 marca o início do desenvolvimento da escrita de movimentos de dança por Valerie Sutton.",
+      "answer": true,
+      "explanation": "Em 1966, Valerie Sutton desenvolveu a notação para registrar passos de dança clássica.",
+      "category": "História do SignWriting",
+      "source": "PDF Oficial - Cartões da Memória"
+    }
+  ]
+}
